@@ -52,7 +52,7 @@ global.use_pp = true; // use a logo?
 
 //========================================================
 
-global.kontakadmin = ["6281287123512"]; // admin whatsapp number
+global.kontakadmin = ["6285798045817"]; // admin whatsapp number
 global.kirimkontak_admin = false; // true = automatically send admin contact
 
 //========================================================
@@ -68,7 +68,7 @@ global.sessionName = "session"; // session name
 Clone the project
 
 ```bash
-  git clone https://github.com/rtaserver/ApiWhatsapp-Gateway.git
+  git clone https://github.com/yushafahad17/AETHERZ-GATEWAY.git
 ```
 
 Go to the project directory
