@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/240px-WhatsApp.svg.png" alt="PhpNuxBill" width="150">
-  <br>Api Whatsapp Gateway - To send notifications to customers<br>
+  <br>Api Whatsapp Gateway - To send notifications<br>
 </h1>
 
 <h4 align="center">Unofficial Whatsapp Gateway Using NodeJs</h4>
@@ -68,13 +68,13 @@ global.sessionName = "session"; // session name
 Clone the project
 
 ```bash
-  git clone https://github.com/yushafahad17/AETHERZ-GATEWAY.git
+  git clone https://github.com/yushafahad17/AETHERZ-GATEWAY-2.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd ApiWhatsapp-Gateway
+  cd ApiWhatsapp-Gateway-2
 ```
 
 Install dependencies
@@ -101,13 +101,13 @@ Open On Browser & Start New Session to Get QRCode if PairingCode False
 
 ```
   POST /send-message
-  GET /send-message?message=Text&number=08123456789
+  GET /send-message?message=Text&number=085798045817
 ```
 
 | Body      | Type     | Description                                                         |
 | :-------- | :------- | :------------------------------------------------------------------ |
 | `message` | `string` | **Required**. Text Message                                          |
-| `number`  | `string` | **Required**. Receiver Phone Number (e.g: 62812345678 / 0812345678) |
+| `number`  | `string` | **Required**. Receiver Phone Number (e.g: 6285798045817 / 085798045817) |
 
 ## Changelog
 
