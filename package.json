@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-gateway",
   "version": "1.0.0",
-  "description": "Whatsapp Api Gateway",
+  "description": "Whatsapp Gateway AETHER",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "AETHER",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^6.7.5",
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "moment-timezone": "^0.5.34",
